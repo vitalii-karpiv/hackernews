@@ -29,5 +29,6 @@ module.exports = {
     'react/button-has-type': 0,
     'no-shadow': 0,
     'import/no-cycle': 0,
+    'no-underscore-dangle': 0,
   },
 };
