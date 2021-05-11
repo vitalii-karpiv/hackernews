@@ -28,5 +28,6 @@ module.exports = {
     'jsx-a11y/no-static-element-interactions': 0,
     'react/button-has-type': 0,
     'no-shadow': 0,
+    'import/no-cycle': 0,
   },
 };
